@@ -1,7 +1,7 @@
-JavaScript "simple-git" Get Latest Commit Demo
-==============================================
+JavaScript "simple-git" Async/Await Demo
+========================================
 
-使用"simple-git"将指定的git仓库clone到本地，并得到最新的commit信息
+关键就是要使用`simple-git/promise`这个module，而不是`simple-git`
 
 ```
 npm install
